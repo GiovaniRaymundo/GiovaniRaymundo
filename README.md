@@ -21,9 +21,9 @@ No importa si se trata de una tecnología que nunca he usado antes; estoy dispue
 
 Si deseas ponerse en contacto conmigo o colaborar en un proyecto, puedes encontrarme en las siguientes plataformas:
 
-- **GitHub:** [tuusuario](https://github.com/tuusuario)
-- **LinkedIn:** [Tu Nombre](https://www.linkedin.com/in/tunombre/)
-- **Correo Electrónico:** tu@email.com
+- **GitHub:** [Giovani Raymundo](https://github.com/GiovaniRaymundo) 
+- **LinkedIn:** [Giovani Ramirez]([https://www.linkedin.com/in/tunombre/](https://www.linkedin.com/in/kevingiovani/))
+- **Correo Electrónico:** giovaniraymundoramirez@gmail.com
 
 Estoy emocionado por las oportunidades que el desarrollo de software ofrece y espero colaborar en proyectos interesantes en el futuro. ¡No dudes en contactarme!
 
