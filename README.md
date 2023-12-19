@@ -1,30 +1,29 @@
-# Hola, soy Giovani Raymundo 👋
+# Hi, I'm Giovani Raymundo 👋
 
-Soy un desarrollador de software web con sede en México. Me apasiona la creación de aplicaciones web y tengo experiencia en diversas tecnologías y lenguajes de programación. Siempre estoy buscando aprender y enfrentar nuevos desafíos en el mundo del desarrollo de software.
+I'm a web software developer based in Mexico. I'm passionate about creating web applications and have experience in various technologies and programming languages. I'm always eager to learn and take on new challenges in the world of software development.
 
-## Mis Habilidades
+## My Skills
 
-Aquí hay algunas de las tecnologías y herramientas con las que estoy familiarizado:
+Here are some of the technologies and tools I'm familiar with:
 
-- **Lenguajes de Programación:** Node.js, JavaScript, TypeScript
-- **Frameworks y Bibliotecas:** Express.js, Nest.js, React.js, 
-- **Bases de Datos:** MySQL, Postgresql
-- **Control de Versiones:** Git
-- **Otras Habilidades:** Desarrollo Frontend y Backend, API REST, Diseño de Bases de Datos.
+- **Programming Languages:** Node.js, JavaScript, TypeScript
+- **Frameworks and Libraries:** Express.js, Nest.js, React.js
+- **Databases:** MySQL, Postgresql
+- **Version Control:** Git
+- **Other Skills:** Frontend and Backend Development, RESTful API, Database Design.
 
-## Mi Filosofía
+## My Philosophy
 
-Creo firmemente en la idea de que la curiosidad y la disposición para aprender son clave en el mundo del desarrollo de software. Siempre estoy abierto a aprender nuevas tecnologías y adaptarme a las últimas novedades. 
-No importa si se trata de una tecnología que nunca he usado antes; estoy dispuesto a aprender y dominarla en beneficio del desarrollo del software que esté creando.
+I firmly believe that curiosity and a willingness to learn are key in the world of software development. I'm always open to learning new technologies and adapting to the latest trends. It doesn't matter if it's a technology I've never used before; I'm willing to learn and master it for the benefit of the software I'm creating.
 
-## Contacto
+## Contact
 
-Si deseas ponerse en contacto conmigo o colaborar en un proyecto, puedes encontrarme en las siguientes plataformas:
+If you want to get in touch with me or collaborate on a project, you can find me on the following platforms:
 
-- **Mi web:** [Giovani Raymundo](https://giovaniraymundo.com/) 
-- **GitHub:** [Giovani Raymundo](https://github.com/GiovaniRaymundo](https://www.linkedin.com/in/kevingiovani/)) 
-- **LinkedIn:** [Giovani Ramirez](https://www.linkedin.com/in/tunombre/](https://www.linkedin.com/in/kevingiovani/))
-- **Correo Electrónico:** giovaniraymundoramirez@gmail.com
+- **My Website:** [Giovani Raymundo](https://giovaniraymundo.com/)
+- **GitHub:** [Giovani Raymundo](https://github.com/GiovaniRaymundo)
+- **LinkedIn:** [Giovani Ramirez](https://www.linkedin.com/in/kevingiovani/)
+- **Email:** giovaniraymundoramirez@gmail.com
 
-Estoy emocionado por las oportunidades que el desarrollo de software ofrece y espero colaborar en proyectos interesantes en el futuro. ¡No dudes en contactarme!
+I'm excited about the opportunities that software development offers, and I look forward to collaborating on interesting projects in the future. Feel free to reach out to me!
 
