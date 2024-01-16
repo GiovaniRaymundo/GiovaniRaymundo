@@ -7,7 +7,7 @@ I'm a web software developer based in Mexico. I'm passionate about creating web 
 Here are some of the technologies and tools I'm familiar with:
 
 - **Programming Languages:** Node.js, JavaScript, TypeScript
-- **Frameworks and Libraries:** Express.js, Nest.js, React.js
+- **Frameworks and Libraries:** Express.js, Nest.js, React.js, Next.js
 - **Databases:** MySQL, Postgresql
 - **Version Control:** Git
 - **Other Skills:** Frontend and Backend Development, RESTful API, Database Design.
